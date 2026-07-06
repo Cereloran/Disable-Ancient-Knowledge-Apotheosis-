@@ -1,0 +1,8 @@
+{
+  "replace": true,
+  "values": [
+    "apothic_attributes:knowledge",
+    "apothic_attributes:long_knowledge",
+    "apothic_attributes:strong_knowledge"
+  ]
+}

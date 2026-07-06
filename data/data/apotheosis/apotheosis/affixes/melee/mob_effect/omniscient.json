@@ -1,0 +1,24 @@
+{
+  "type": "apotheosis:mob_effect",
+  "definition": {
+    "affix_type": "basic_effect",
+    "exclusive_set": [
+      "apotheosis:melee/mob_effect/sophisticated"
+    ],
+    "weights": {
+      "pinnacle": {
+        "quality": 0.0,
+        "weight": 0
+      }
+    }
+  },
+  "mob_effect": "apothic_attributes:knowledge",
+  "stack_on_reapply": true,
+  "stacking_limit": 8,
+  "target": "attack_self",
+  "types": [
+    "apotheosis:melee_weapon",
+    "apotheosis:trident"
+  ],
+  "values": {}
+}
